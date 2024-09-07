@@ -11,7 +11,7 @@
 <h2>Notes</h2>
 <ul>
 <li>Using negative edge costs is not supported</li>
-<li>A demo is available at https://mdahshan.github.io/dijkstra/</li>
+<li>A demo is available at https://rajeevroy21.github.io/shortest_path-using-Dijkstra-s-algorithm-/</li>
 </ul>
 
 </ol>
