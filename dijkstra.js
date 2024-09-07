@@ -1,5 +1,5 @@
 //Dijkstra's algorithm solver
-//By Mostafa Dahshan <mdahshan@outlook.com>
+<!-- By Rajeev kumar <rajeevroy70701@gmail.com> -->
 
 var svg = document.getElementById('shortestPathSvg'),
     gedge = document.getElementById('gedge'),
